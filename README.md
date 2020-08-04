@@ -6,4 +6,5 @@ My name is Gabriela and I'm a geophysicist working my way through Front-End Deve
 
 
 📫 You can reach me on linkedIn (@gabriela-turquetti)!
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
