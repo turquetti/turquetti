@@ -4,5 +4,5 @@ This journey with Front-End Development started early 2020, but I finally got my
 
 ## Get in touch 📫
 - LinkedIn: https://www.linkedin.com/in/gabriela-turquetti/
-- Porfolio: [CLICK ME!](https://www.twitter.com)Soon!
+- Porfolio: Soon!
 - Email: gabrielaturquetti@gmail.com
