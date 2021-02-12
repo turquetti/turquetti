@@ -6,6 +6,4 @@ My journey started in early 2020 when I was selected to be a part of the course 
 - **Ratas**: project designed to build an Art Gallery using Ghost, Gatsby and React applications. 
 
 ## Get in touch 📫
-- LinkedIn: https://www.linkedin.com/in/gabriela-turquetti/
-- Porfolio: Soon!
-- Email: gabrielaturquetti@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gabriela-turquetti/) | gabrielaturquetti@gmail.com
