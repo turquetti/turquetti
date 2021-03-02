@@ -1,6 +1,6 @@
 # Hi, I'm Gabriela! 👻
 
-![](Rosa Sombra Pop Retrô Cartão de Cumprimentos.png)
+![logo](Rosa Sombra Pop Retrô Cartão de Cumprimentos.png)
 
 I'm a geophysicist working my way through code and I love challenges!
 
