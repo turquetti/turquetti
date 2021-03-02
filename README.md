@@ -1,5 +1,6 @@
 # Hi, I'm Gabriela! 👻
 
+<img width="800" height="400" src="logo.png">
 ![logo](logo.png)
 
 I'm a geophysicist working my way through code and I love challenges!
