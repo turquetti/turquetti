@@ -1,10 +1,12 @@
-# Hi, I'm Gabriela! 👻
+# Oi, meu nome é Gabi! 👻
 
-I'm a developer and data enthusiast! 🖤
+Sou desenvolvedora e curiosa pelo mundo dos dados! 🖤
 
-My tech journey started in early 2020 when I joined "{reprograma} Front-End Development Bootcamp". It was an amazing experience and after that, I never stopped studying! Now, in 2021, I joined the "VAMO AI", a 6-month program to develop 35 people to become Jr. Data Analysts. So now, my current challenges are:
+Tecnologias:
+* Python
+* PostgreSQL
+* TypeScript
+* React
+* SASS
 
-- **6-month Data Analysis Course by iFood**: learn data analysis with Python, PostgreSQL and Docker.
-
-
-- **Ratas**: project designed to build an Art Gallery using Ghost, Gatsby and React applications. 
+linkedIn | e-mail | twitter
