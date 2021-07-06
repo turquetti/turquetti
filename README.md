@@ -5,8 +5,10 @@ Sou desenvolvedora e curiosa pelo mundo dos dados! 🖤
 Tecnologias:
 * Python
 * PostgreSQL
+* Docker
+* Tableau
 * TypeScript
 * React
 * SASS
 
-linkedIn | e-mail | twitter
+[linkedIn](https://www.linkedin.com/in/gabriela-turquetti/) | e-mail | [equidados](https://github.com/equidados)
