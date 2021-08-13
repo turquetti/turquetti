@@ -4,4 +4,4 @@ Sou desenvolvedora e curiosa pelo mundo dos dados! 🖤
 
 Movida à desafios e sempre buscando por projetos que tragam retorno às pessoas. 
 
-[linkedIn](https://www.linkedin.com/in/gabriela-turquetti/) | 
+[linkedIn](https://www.linkedin.com/in/gabriela-turquetti/)
