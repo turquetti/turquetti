@@ -2,13 +2,6 @@
 
 Sou desenvolvedora e curiosa pelo mundo dos dados! 🖤
 
-Tecnologias:
-* Python
-* PostgreSQL
-* Docker
-* Tableau
-* TypeScript
-* React
-* SASS
+Movida à desafios e sempre buscando por projetos que tragam retorno às pessoas. 
 
-[linkedIn](https://www.linkedin.com/in/gabriela-turquetti/) | e-mail | [equidados](https://github.com/equidados)
+[linkedIn](https://www.linkedin.com/in/gabriela-turquetti/) | 
