@@ -1,6 +1,6 @@
 # Oi, meu nome é Gabi! 👻
 
-Sou desenvolvedora e curiosa pelo mundo dos dados! 🖤
+Data Analyst 🖤
 
 Movida à desafios e sempre buscando participar de projetos que tragam retorno às pessoas. 
 
